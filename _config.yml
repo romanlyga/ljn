@@ -98,3 +98,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://ljn-243f7.netlify.app'
